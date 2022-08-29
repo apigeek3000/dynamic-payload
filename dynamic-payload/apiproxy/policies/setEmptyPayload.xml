@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<AssignMessage continueOnError="false" enabled="true" name="setEmptyPayload">
+    <DisplayName>setEmptyPayload</DisplayName>
+    <Set>
+        <Payload contentType="application/json">{}</Payload>
+    </Set>
+</AssignMessage>

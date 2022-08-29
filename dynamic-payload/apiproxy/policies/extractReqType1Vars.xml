@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ExtractVariables continueOnError="false" enabled="true" name="extractReqType1Vars">
+    <DisplayName>extractReqType1Vars</DisplayName>
+    <JSONPayload>
+        <Variable name="reqType1Field">
+            <JSONPath>$.reqType1Field</JSONPath>
+        </Variable>
+    </JSONPayload>
+</ExtractVariables>

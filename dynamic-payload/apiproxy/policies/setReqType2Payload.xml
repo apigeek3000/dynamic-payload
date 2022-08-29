@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<AssignMessage continueOnError="false" enabled="true" name="setReqType2Payload">
+    <DisplayName>setReqType2Payload</DisplayName>
+    <Set>
+        <Payload contentType="application/json">
+            {
+                "reqType2Field": "{reqType2Field}"
+            }
+        </Payload>
+    </Set>
+</AssignMessage>

@@ -1,0 +1,16 @@
+<APIProxy revision="3" name="dynamic-payload-js">
+    <DisplayName></DisplayName>
+    <Description></Description>
+    <CreatedAt>1661804221484</CreatedAt>
+    <LastModifiedAt>1661804221484</LastModifiedAt>
+    <BasePaths>/dynamic-payload-js</BasePaths>
+    <Policies>
+        <Policy>defineNewPayload</Policy>
+    </Policies>
+    <ProxyEndpoints>
+        <ProxyEndpoint>default</ProxyEndpoint>
+    </ProxyEndpoints>
+    <Resources>
+        <Resource>jsc://defineNewPayload.js</Resource>
+    </Resources>
+</APIProxy>

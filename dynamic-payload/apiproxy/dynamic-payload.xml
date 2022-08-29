@@ -1,0 +1,18 @@
+<APIProxy revision="18" name="dynamic-payload">
+    <DisplayName></DisplayName>
+    <Description></Description>
+    <CreatedAt>1661804155238</CreatedAt>
+    <LastModifiedAt>1661804155238</LastModifiedAt>
+    <BasePaths>/dynamic-payload</BasePaths>
+    <Policies>
+        <Policy>setEmptyPayload</Policy>
+        <Policy>extractReqType</Policy>
+        <Policy>extractReqType2Vars</Policy>
+        <Policy>extractReqType1Vars</Policy>
+        <Policy>setReqType2Payload</Policy>
+        <Policy>setReqType1Payload</Policy>
+    </Policies>
+    <ProxyEndpoints>
+        <ProxyEndpoint>default</ProxyEndpoint>
+    </ProxyEndpoints>
+</APIProxy>
