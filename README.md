@@ -1,5 +1,5 @@
 # dynamic-payload
-Here we solve the use case of "What if I want to dynamically augment my request payload depending on the data within it?". 
+Here we solve the use case of "What if I want to dynamically augment my request payload depending on the data within it?"
 
 ## Intro
 It's important to be able to understand how to manipulate your request and response data in a dynamic fashion. In this repo you'll learn how to accomplish this using both native Apigee ExtractVariable & AssignMessage policies as well as using only a JavaScript policy. 
